@@ -38,8 +38,8 @@ Sebelum menjalankan project ini, pastikan Anda telah menginstal:
 
 1. **Clone Repository ini:**
    ```bash
-   git clone [https://github.com/Kndy26/gym_member.git](https://github.com/Kndy26/gym_member.git)
-   cd mugengym
+   git clone https://github.com/Kndy26/gym_member.git
+   cd gym_member
 
 2. **Install Dependencies:**
    ```bash
