@@ -49,8 +49,8 @@ Sebelum menjalankan project ini, pastikan Anda telah menginstal:
    * Buat project baru di [Firebase Console](https://console.firebase.google.com/)
    * Aktifkan layanan Authentication (Email/Password), Firestore Database, dan Storage.
    * Buka terminal di folder root project ini dan jalankan perintah Firebase CLI:
-    ```bash
-    flutterfire configure
+        ```bash
+        flutterfire configure
    * Perintah di atas akan otomatis mengenerate file `lib/firebase_options.dart` dan mengunduh file konfigurasi platform (seperti `google-services.json` untuk Android) ke dalam folder project Anda. 
 
 4. **Jalankan Aplikasi:**
